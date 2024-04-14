@@ -1,6 +1,6 @@
 {
   "name": "xtring-npm-test",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Test NPM Module",
   "main": "dist/xtring-npm-test.js",
   "types": "dist/index.d.ts",
@@ -12,13 +12,22 @@
     "type": "git",
     "url": "git+https://github.com/flamingotiger/react-free-dropdown.git"
   },
-  "keywords": ["free", "dropdown", "custom", "react.js", "react"],
+  "keywords": [
+    "free",
+    "dropdown",
+    "custom",
+    "react.js",
+    "react"
+  ],
   "license": "MIT",
   "author": "flamingotiger <hhbhong@gmail.com>",
   "bugs": {
     "url": "https://github.com/flamingotiger/react-free-dropdown/issues"
   },
-  "files": ["src", "dist"],
+  "files": [
+    "src",
+    "dist"
+  ],
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-commonjs": "^25.0.7",

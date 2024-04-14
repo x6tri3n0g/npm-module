@@ -1,5 +1,5 @@
-export const Box = () => {
-  return (
-    <div>BOX!</div>
-  )
+const Box = () => {
+  return <span>BOX!</span>
 }
+
+export { Box };
